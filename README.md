@@ -110,3 +110,13 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+🛠️ My favorite tools
+👨‍💻 Programming languages
+Python R SQL Bash
+
+🧰 Frameworks, libraries and DB
+NumPy Pandas ScipyPy Scikit-Learn TensorFlow Keras XGBoost lightgbm catboost Plotly Dash Apache Spark PostgreSQL MongoDB MySQL SQLite Databricks Databricks
+
+💻 Software and tools
+Linux Ubuntu Jupyter Visual Studio Code Google Colab Docker Git Wordpress Mathematica Stack Overflow Google Chrome Google Sheets Notion Markdown LaTeX Overleaf

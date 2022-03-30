@@ -1,8 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />  
   
 
-### <div align="center">I'm Panagiotis, a Data Scientist 📊 with background in Naval Engineering ⚓ 
-  from Athens Greece 🏛️</div>  
+### <div align="center">I'm Panagiotis, a Data Scientist 📊 with background in Naval Engineering ⚓ <br/>  from Athens Greece 🏛️</div>  
   
 
 - 🔭 I’m currently working on [Relationals FS](https://www.relationalfs.com)  

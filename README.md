@@ -30,7 +30,6 @@
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
 </p>
   
 ### 🧰 Frameworks, libraries and DB
@@ -72,9 +71,7 @@
     <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
     <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
- </p>
+</p>
 </div>  
 <br/>
 

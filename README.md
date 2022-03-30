@@ -72,6 +72,7 @@
     <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
     <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
  </p>
 </div>  

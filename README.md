@@ -24,7 +24,7 @@
 
 <div align="center">  
 ### 👨‍💻 Programming languages
-<div align="center">  
+ 
 <p>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
@@ -52,7 +52,7 @@
     <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-green.svg?logo=overleaf&logoColor=white"></a>
  </p>
-</div>
+
 <br/>
 
 ## 🔗 Connect with me  

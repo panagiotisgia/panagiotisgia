@@ -14,9 +14,8 @@
   
 
 - ⚡ Fun fact: I have build over 30 jigsaw puzzles with 1000 pieces  
-  
 
-  
+
 
 <br/>  
 
@@ -25,7 +24,7 @@
 
 
 ### 👨‍💻 Programming languages
-
+<div align="center">  
 <p>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
@@ -52,12 +51,11 @@
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-green.svg?logo=overleaf&logoColor=white"></a>
-   
-</p>
+ </p>
 
 <br/>
 
-## Connect with me  
+## 🔗 Connect with me  
 <div align="center">
 <a href="https://github.com/panagiotisgia" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

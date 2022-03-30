@@ -22,7 +22,7 @@
 
 ## 🛠️ My favorite tools
 
-
+<div align="center">  
 ### 👨‍💻 Programming languages
 <div align="center">  
 <p>
@@ -52,7 +52,7 @@
     <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-green.svg?logo=overleaf&logoColor=white"></a>
  </p>
-
+</div>
 <br/>
 
 ## 🔗 Connect with me  

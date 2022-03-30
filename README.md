@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />  
   
 
 ### <div align="center">I'm Panagiotis, a Data Scientist 📊 with background in Naval Engineering ⚓ from Athens Greece 🏛️</div>  

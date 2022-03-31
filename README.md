@@ -35,7 +35,7 @@
 ### 🗃️ Analytics/ETL tools and DataBases 
  
 <p>
-   <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&logoColor=white"></a>
+   <a href="https://powerbi.microsoft.com/"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&logoColor=white"></a>
    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-black.svg?logo=linux&logoColor=white"></a>
    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>

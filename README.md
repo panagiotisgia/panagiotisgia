@@ -31,6 +31,15 @@
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
+
+### 🗃️ Analytics/ETL tools and DataBases 
+ 
+<p>
+   <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-black.svg?logo=linux&logoColor=white"></a>
+   <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+</p>  
+  
   
 ### 🧰 Frameworks, libraries and DB
 
@@ -48,14 +57,7 @@
 
 </p>
 
-### 💻 Software and tools
 
-<p>
-   <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-black.svg?logo=linux&logoColor=white"></a>
-   <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://wordpress.org/"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-</p>
 </div>  
 
 <br/>

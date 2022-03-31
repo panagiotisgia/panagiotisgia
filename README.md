@@ -36,7 +36,7 @@
  
 <p>
    <a href="https://powerbi.microsoft.com/"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&logoColor=white"></a>
-   <a href="https://www.sap.com/products/bi-platform.html/"><img alt="Bussines Objects" src="https://img.shields.io/badge/SAP-0FAAFF.svg?logo=sap&logoColor=white"></a>
+   <a href="https://www.sap.com/products/bi-platform.html/"><img alt="SAP" src="https://img.shields.io/badge/Business%20Objects-0FAAFF.svg?logo=sap&logoColor=white"></a>
    <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 

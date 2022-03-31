@@ -24,7 +24,7 @@
 
 <div align="center">  
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming Languages
  
 <p>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
@@ -36,13 +36,14 @@
  
 <p>
    <a href="https://powerbi.microsoft.com/"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&logoColor=white"></a>
-   <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-black.svg?logo=linux&logoColor=white"></a>
+   <a href="https://www.sap.com/products/bi-platform.html/"><img alt="Bussines Objects" src="https://img.shields.io/badge/SAP-0FAAFF.svg?logo=sap&logoColor=white"></a>
+   <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+
 </p>  
   
   
-### 🧰 Frameworks, libraries and DB
+### 🧰 Frameworks and Libraries 
 
 <p>
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4d77cf.svg?logo=numpy&logoColor=white"></a>

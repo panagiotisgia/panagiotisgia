@@ -38,6 +38,11 @@
    <a href="https://powerbi.microsoft.com/"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&logoColor=white"></a>
    <a href="https://www.sap.com/products/bi-platform.html/"><img alt="SAP" src="https://img.shields.io/badge/BusinessObjects-0FAAFF.svg?logo=sap&logoColor=white"></a>
    <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
+   <a href="https://www.microsoft.com/en-us/sql-server//"><img alt="SSIS" src="https://img.shields.io/badge/SSIS-5294E2.svg?logo=microsoftsqlserver&logoColor=white"></a>
+   <a href="https://www.microsoft.com/en-us/sql-server//"><img alt="SSIS" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
+     <a href="https://hadoop.apache.org/"><img alt="Apache Hadoop" src="https://img.shields.io/badge/Hadoop-FDEE21.svg?logo=apachehadoop&logoColor=white"></a>
+
+
 
 </p>  
   
@@ -48,13 +53,12 @@
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4d77cf.svg?logo=numpy&logoColor=white"></a>
     <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://www.scipy.org/"><img alt="ScipyPy" src="https://img.shields.io/badge/SciPy-blue.svg?logo=SciPy&logoColor=white"></a>
-    <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
+    <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
     <a href="https://xgboost.readthedocs.io/en/latest/"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337ab7.svg?logo=xgboost&logoColor=white"></a>
     <a href="https://lightgbm.readthedocs.io/en/latest/"><img alt="lightgbm" src="https://img.shields.io/badge/LightGBM-2980b9.svg?logo=xgboost&logoColor=333333"></a> 
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3c4c74.svg?logo=plotly&logoColor=white"></a>
     <a href="https://spark.apache.org/"><img alt="Apache Spark" src="https://img.shields.io/badge/Spark-e36b1a.svg?logo=apache%20spark&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="https://hive.apache.org/"><img alt="Apache Hive" src="https://img.shields.io/badge/Hive-FFD000.svg?logo=apache%20hive&logoColor=white"></a>
 
 </p>
 

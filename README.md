@@ -4,7 +4,7 @@
 ### <div align="center">I'm Panagiotis, a Data Scientist 📊 <br/> background in Naval Engineering ⚓ <br/>  from Athens Greece 🏛️</div>  
   
 
-- 🔭 I’m currently working on [Relationals FS](https://www.relationalfs.com)  
+- 🔭 I’m currently working on [Upstream](https://www.upstreamsystems.com/)  
   
 
 - 🌱 I’m currently learning about Big Data and Web3   

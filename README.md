@@ -4,7 +4,7 @@
 ### <div align="center">I'm Panagiotis, a Data Scientist 📊 <br/> background in Naval Engineering ⚓ <br/>  from Athens Greece 🏛️</div>  
   
 
-- 🔭 I’m currently working on [safeSize](https://www.safesize.com/)  
+- 🔭 I’m currently working on [SafeSize](https://www.safesize.com/)  
   
 
 - 🌱 I’m currently learning about AI technologies   

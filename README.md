@@ -4,10 +4,10 @@
 ### <div align="center">I'm Panagiotis, a Data Scientist 📊 <br/> background in Naval Engineering ⚓ <br/>  from Athens Greece 🏛️</div>  
   
 
-- 🔭 I’m currently working on [Upstream](https://www.upstreamsystems.com/)  
+- 🔭 I’m currently working on [safeSize](https://www.safesize.com/)  
   
 
-- 🌱 I’m currently learning about Big Data and Web3   
+- 🌱 I’m currently learning about AI technologies   
   
 
 - ❓ Ask me about anything related to Aristotle and Plato  
